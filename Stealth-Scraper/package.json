@@ -1,0 +1,25 @@
+{
+  "name": "stealth-scraper",
+  "version": "1.0.0",
+  "description": "Bot Evasion Practice:",
+  "main": "on).",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohit-tellis/Bot-Evasion-Practice.git"
+  },
+  "author": "Mohit Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohit-tellis/Bot-Evasion-Practice/issues"
+  },
+  "homepage": "https://github.com/mohit-tellis/Bot-Evasion-Practice#readme",
+  "dependencies": {
+    "puppeteer": "^24.12.1",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "user-agents": "^1.1.600"
+  }
+}
